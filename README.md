@@ -262,6 +262,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the AI community**
 
-[⭐ Star this repo](https://github.com/yourusername/multi-ai-platform) • [🐦 Follow on Twitter](https://twitter.com/yourusername) • [💬 Join Discord](https://discord.gg/your-invite)
+[⭐ Star this repo](https://github.com/abusayeed21/multi-ai-platform)
 
 </div>
